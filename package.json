@@ -1,0 +1,16 @@
+{
+  "name": "price",
+  "version": "0.1.0",
+  "author": {
+    "name": "Kristján Ingi Mikaelsson",
+    "email": "kristjanmik@gmail.com"
+  },
+  "description": "A library to look up prices in stores",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kristjanmik/price.git"
+  },
+  "dependencies": {
+    "request": "~2.30.0"
+  }
+}
